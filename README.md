@@ -85,12 +85,12 @@ Essential links and resources for further information
 
 **Reference:**
 
-CleanStart Community Images: https://hub.docker.com/u/cleanstart 
-
-Get more from CleanStart images from https://github.com/clnstrt/cleanstart-containers/tree/main/containers⁠, 
-
-  -  how-to-Run sample projects using dockerfile 
-  -  how-to-Deploy via Kubernetes YAML 
-  -  how-to-Migrate from public images to CleanStart images
+CleanStart All Images: https://images.cleanstart.com
+ 
+CleanStart Community Images: https://hub.docker.com/u/cleanstart
+ 
+View Provenance, Specifications, SBOM, Signature at https://images.cleanstart.com/images/metallb-speaker
+ 
+Other location for Community image: https://hub.docker.com/r/cleanstart/metallb-speaker
 
 ---
